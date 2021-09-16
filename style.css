@@ -1,0 +1,135 @@
+body {
+    font-family: Roboto, sans-serif;
+    background-color: #001524;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+div.form {
+    width:50%;
+    padding-bottom: 2%;
+}
+
+.button{
+  padding: 5%;
+}
+
+a, a:hover {
+  color: #ffffff;
+    text-decoration: none;
+}
+
+header {
+  padding: 20px 0;
+  
+}
+
+header .row{
+  display: flex;
+  align-items: center;
+}
+
+div.mobile{
+  display:none;
+}
+
+nav {
+     display: flex;
+     justify-content: flex-end;
+
+}
+
+nav a {
+   font-size: 1.5em;
+    padding: 0 20px;
+    margin: 0;
+    color: #ffffff;
+    text-decoration: none;
+}
+h1{
+font-size: 1.5rem;
+}
+
+ div.drop-menu {
+    display: none;
+    }
+  
+  .jumbotron {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    width: 80%;
+    margin: 0 auto;
+    background-color: #ffffff;
+}
+
+.jumbotron h3{
+  color:#001524;
+  text-align: center;
+}
+
+  footer {
+    padding-bottom: 5%;
+  }
+
+   footer p {
+  text-align: center;
+  padding-top: 3vw;
+  font-size: 1em;
+  color:#ffffff
+}
+
+footer h3 {
+  text-align: center;
+  color:#ffffff;
+
+}
+
+#emavalue{
+  text-align: center;
+  color: #007bff40;
+  font-size: 5em;
+  height: 300px;
+  padding-top: 8%;
+}
+
+
+#tvchart{
+  width: 300px;
+  margin: 0 auto;
+
+}
+/*
+@media only screen and (max-width:768px){
+
+    
+
+    div.desktop{
+      display:none;
+    }
+
+    div.mobile {
+      display: flex;
+      justify-content: flex-end;
+    }
+ 
+
+    h1{
+    font-size: 1.25rem;
+    }
+
+    div.drop-menu {
+    display:none;   
+    }
+
+    nav.mobile{
+
+      display: flex;
+      justify-content: flex-end;
+
+    }
+
+}*/
