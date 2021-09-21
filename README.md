@@ -10,7 +10,7 @@ GOAL FOR THE NEXT UPDATE: Web app must be able to compare ETH last price with th
 
 09/20/2021
 
-Web app is able to compare the assets price against the 50 periods EMA price and display a suggestion wether the price is above or below the 50EMA price. (If its above it will suggests you to long the asset, if its below it will suggest you to exit (or short) the asset)
+Web app is able to compare the assets price against the 50 periods EMA price and display a suggestion whether the price is above or below the 50EMA price. (If its above it will suggests you to long the asset, if its below it will suggest you to exit (or short) the asset)
 
 Actual version only has ETHEREUM, next version will include many more assets:).
 
